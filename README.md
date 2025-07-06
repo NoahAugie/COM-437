@@ -7,13 +7,13 @@
 
 ## Project Description
 
-BlueZone is a mobile Android app designed to rank and review skateparks across the California Bay Area. It combines real-world experience, family-friendly features, and core skating metrics into a simple interface that’s easy for users of all ages. The app is designed to help families, new skaters, and seasoned riders find the best spots based on up-to-date park conditions, features, and crowd reviews.
+BlueZone is a mobile app that helps skaters explore and evaluate skateparks around the California Bay Area. It offers information that matters both to experienced skaters and to families with young children. Users can browse a list of skateparks, view photos, check terrain types, and read short reviews. As a father of two young daughters who are both learning to skate, I created BlueZone to support both adult skaters and parents looking for safe, welcoming parks. Whether one is looking for bowls or just wants a clean place to skate with kids, my app aims to help.
 
-As a father of two young daughters who are both learning to skate, I created BlueZone to support both adult skaters and parents looking for safe, welcoming parks. Whether you're hitting bowls or just looking for a clean place to skate with kids, this app aims to help.
+My project blends personal experience with practical mobile development. I skate regularly with my two daughters, and we visit parks across the Bay. BlueZone will reflect that mix of adventure and safety, offering a balanced view of each park’s features.
 
 ## Problem Being Addressed
 
-Skaters and families have no reliable app to compare local skateparks. Current tools are outdated, incomplete, or focused solely on one demographic. There's a need for clean, filterable information about each park's terrain type, cleanliness, difficulty, and safety — all in one place. BlueZone fills that gap.
+Skaters and families have no reliable app to compare local skateparks. Current tools are outdated, incomplete, or focused solely on one demographic. There's a need for clean, filterable information about each park's terrain type, cleanliness, difficulty, and safety all in one place. BlueZone fills that gap.
 
 ## Platform
 
