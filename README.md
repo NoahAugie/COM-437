@@ -19,7 +19,7 @@ Skaters and families have no reliable app to compare local skateparks. Current t
 
 - Android Studio
 - Android SDK and Emulator
-- Java/Kotlin
+- Java
 - Target: Modern Android devices (API 30+)
 - No backend planned; data will be static or local in-app
 
